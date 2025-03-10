@@ -20,7 +20,7 @@ The Pointeuse IoT Lock system is a secure access control solution that uses RFID
 ## Repository Contents
 
 ### 1. **Schematic Files**
-  ![Schematic_pointeuse](Schematic 2.png)
+  ![Schematic_pointeuse](Schematic%2.png)
    - **Schematic**
      - Contains the schematic diagram for the Pointeuse IoT Lock system.
      - Includes components such as resistors, DC components, and RFID module connections.
