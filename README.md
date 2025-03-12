@@ -96,29 +96,3 @@ The Pointeuse IoT Lock system is a secure access control solution that uses RFID
 ## License
 
 This project is licensed under the **MIT License**. You are free to use, modify, and distribute the files for personal or commercial use. See the [LICENSE](LICENSE) file for more details.
-
----
-
-## Contributing
-
-Contributions are welcome! If you have suggestions, improvements, or bug fixes, please follow these steps:
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Submit a pull request with a detailed description of your changes.
-
----
-
-## Issues
-
-If you encounter any issues or have questions, please open an issue in the repository. Provide as much detail as possible, including steps to reproduce the issue.
-
----
-
-## Acknowledgments
-
-- Thanks to the open-source community for providing tools and libraries that made this project possible.
-- Special thanks to [Your Team/Organization Name] for their support and collaboration.
-
----
-
-**Note**: Replace placeholders (e.g., [Your Team/Organization Name]) with actual details relevant to your project.
